@@ -47,3 +47,5 @@ else:
 
 print("You answer on " + str(scores) + " right answers")
 print("your right answers are " + str((scores/4) * 100) + "%")
+
+
